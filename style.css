@@ -37,7 +37,7 @@ h1, h2, h3{
     font-family: "Sora", sans-serif;
 }
 
-/* ---------- Header ---------- */
+/*  Header  */
 .header{
     position: fixed;
     top: 0;
@@ -98,7 +98,7 @@ span{
     display: none;
 }
 
-/* ---------- Sections ---------- */
+/*  Sec  */
 section{
     min-height: 100vh;
     padding: 12rem 9% 8rem;
@@ -114,7 +114,7 @@ section{
     letter-spacing: -0.02rem;
 }
 
-/* ---------- Home ---------- */
+/*  Home  */
 .home{
     display: flex;
     justify-content: center;
@@ -286,7 +286,7 @@ section{
     cursor: pointer;
 }
 
-/* ---------- About ---------- */
+/*  About  */
 .about{
     display: flex;
     align-items: center;
@@ -353,7 +353,7 @@ section{
     margin: 1.5rem 0 2.5rem;
 }
 
-/* ---------- Skills ---------- */
+/*  Skills  */
 .skills{
     background: var(--second-bg-color);
 }
@@ -404,7 +404,7 @@ section{
     transform: translateY(-3px);
 }
 
-/* ---------- Timeline ---------- */
+/*  Timeline  */
 .timeline-section{
     background: var(--bg-color);
 }
@@ -492,7 +492,7 @@ section{
     line-height: 1.7;
 }
 
-/* ---------- Services ---------- */
+/*  Services  */
 .services{
     background: var(--second-bg-color);
 }
@@ -559,7 +559,7 @@ section{
     background-color: var(--bg-color);
 }
 
-/* ---------- Contact ---------- */
+/*  Contact  */
 .contact{
     background-color: var(--bg-color);
 }
@@ -630,7 +630,7 @@ section{
     border: none;
 }
 
-/* ---------- Footer ---------- */
+/*  Footer  */
 .footer{
     padding: 4rem 9% 2.5rem;
     background-color: var(--second-bg-color);
@@ -692,7 +692,7 @@ section{
     color: var(--text-muted);
 }
 
-/* ---------- Responsive ---------- */
+/*  Responsive  */
 @media (max-width: 1200px){
     html{ font-size: 55%; }
 }
